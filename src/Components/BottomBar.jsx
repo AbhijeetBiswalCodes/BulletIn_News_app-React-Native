@@ -27,12 +27,6 @@ const BottomBar = () => {
     }
   }; 
 
-  // useFocusEffect(() => {
-  //   if (clicked) {
-  //     toggleClicked(); // Reset the icon state when the screen gains focus
-  //   }
-  // }); 
-
   return (
     <View style={{height: 55, width: '100%', backgroundColor: '#010d21'}}>
       <View
