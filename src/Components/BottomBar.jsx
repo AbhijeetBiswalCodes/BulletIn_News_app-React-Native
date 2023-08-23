@@ -70,7 +70,7 @@ const BottomBar = () => {
             </View>
             <View style={{}}>
             <Icon
-                name={clicked ? 'close-outline' : 'apps-outline' } // Change the icon based on the clicked state
+                name={clicked ? 'close-outline' : 'apps-outline' } 
                 size={25}
               />
             </View>
